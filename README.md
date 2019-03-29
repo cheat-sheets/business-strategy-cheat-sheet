@@ -9,6 +9,8 @@ strategies to attain competitive advantage.
 
 - [The Basics](#the-basics)
 - [Cooperation](#cooperation)
+- [Complementary Products](#complementary-products)
+  - [Strategic Partnerships](#strategic-partnerships)
 - [Resources](#resources)
 
 ## The Basics
@@ -129,6 +131,70 @@ lower prices. It thus violates competition.
 - There is not enough market for two different models
 - Airbus moves first - builds production facilities in Hamburg and Toulouse, 
 these can be used for the production of the A380 only.
+
+## Complementary Products
+
+Two products A and B are complementary if the demand for B increases when the price of A drops, and vice versa.
+Examples: Computers & Software, Skis & Skiing Sticks, Smartphones & Apps. This phenomenon is referred to as 
+**negative cross-price elasticity**.
+
+**Cross-price elasticity of demand** measures the responsiveness of the quantity demanded for a good to a change in the 
+price of another good, [ceteris paribus](https://en.wikipedia.org/wiki/Ceteris_paribus). It is measured as the 
+percentage change in quantity demanded for the first good that occurs in response to a percentage change in price of 
+the second good. For example, if, in response to a 10% increase in the price of fuel, the demand for new cars 
+that are fuel inefficient decreased by 20%, the cross elasticity of demand would be: -2.
+
+It may make sense to support the supplier of the complement - Better quality of complement and 
+higher sales of complement is beneficial for own product. 
+
+Examples:
+- Apple gave laptops to students writing software for Mac OS. More compatible software titles made Apple's 
+laptops more attractive.
+- Game console manufacturer 3DO made publishers pay a fee of 3 dollars to 3DO for every game copy sold. 
+  - 3DO could sell consoles much cheaper and attract more customers.
+  - Publishers could sell more copies and increase net profits.
+  
+**Producing the complement yourself**:
+- Pros:
+  - Market for complement may be unattractive
+  - Complement may require competencies the firm lacks (production, R&D, management,...)
+  - Prospective customers might be put off by firm’s dominant position
+- Cons:
+  - Better tailoring of complement to own product
+  - Quality control for complement
+  - Internalisation of the positive effects of the complement on own product
+
+**Strategies related to complements**
+- **Cross subsidies** - charging higher prices to one type of consumers to artificially lower prices for another group.
+	- Razors and blades, Mobile phones and operator contracts, Printers and cartridges.
+- **Bundling** - sell main product and complement as a bundle.
+- **Lock-in** - complement can only be used with main product of certain producer. Users have switching costs when 
+switching from A to a substitute. The more complements (B, C, ...) to A they buy, the higher the switching cost.
+Higher switching costs imply a higher value of the customer to the firm.
+
+Sometimes two firms can be **both competitors and complementors**. 
+For example, Sony and Apple. Both produce mp3 players. Sony uses iTunes store to sell music they produce.
+
+### Strategic Partnerships
+
+Sometimes firms don't want to merge, because they want to maintain control or only part of business is complementary.
+In this case a strategic partnership can be used:
+
+- Producers of complementary goods dependent on each other.
+- Helping each other and coordinating each other's behaviour maximizes the positive effects of complementarity.
+- In many cases, integration into one single company not feasible or not desired by involved firms.
+- Forming a strategic partnership is a powerful way of institutionalizing coordination and formalising interests.
+
+A strategic partnership is characterised by:
+
+- Shared decision making
+- Organizational integration 
+  - Teams across firms
+  - Established reporting and decision routines across firms
+  - Heavy exchange of information
+- Economic integration
+  - Joint equity ownership 
+  - A new legal entity (joint venture)
 
 
 ## Resources
