@@ -11,6 +11,7 @@ strategies to attain competitive advantage.
 - [Cooperation](#cooperation)
 - [Complementary Products](#complementary-products)
   - [Strategic Partnerships](#strategic-partnerships)
+- [Market Entry Strategy](#market-entry-strategy)
 - [Resources](#resources)
 
 ## The Basics
@@ -196,6 +197,149 @@ A strategic partnership is characterised by:
   - Joint equity ownership 
   - A new legal entity (joint venture)
 
+## Market Entry Strategy
+
+### Attractiveness of New Market Entry
+
+[**Porter's Five Forces**](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis):
+
+- **Threat of new entrants**
+  - The existence of barriers to entry (patents, rights, etc.). The most attractive segment is one in which entry 
+  barriers are high and exit barriers are low.
+  - Government policy such as sanctioned monopolies or legal franchise requirements.
+  - Capital requirements - clearly the Internet has influenced this factor dramatically. Web sites and apps can be launched cheaply and easily as opposed to the brick and mortar industries of the past.
+  - Economies of scale
+  - Product differentiation
+  - Brand equity
+  - Customer loyalty to established brands
+  - Industry profitability (the more profitable the industry, the more attractive it will be to new competitors)
+  - Network effect 
+- **Threat of substitutes** (products that use a different technology to try to solve the same economic need)
+  - Buyer propensity to substitute
+  - Relative price performance of substitute
+  - Buyer's switching costs
+  - Number of substitute products available in the market
+  - Availability of close substitute
+- **Bargaining power of customers**
+  - Buyer concentration to firm concentration ratio
+  - Degree of dependency upon existing channels of distribution
+  - Buyer switching costs
+  - Buyer information availability
+  - Buyer price sensitivity
+- **Bargaining power of suppliers**
+  - Supplier switching costs relative to firm switching costs
+  - Degree of differentiation of inputs
+  - Presence of substitute inputs
+  - Employee solidarity
+- **Competitive rivalry**
+  - Sustainable competitive advantage through innovation
+  - Level of advertising expense
+  - Powerful competitive strategy which could potentially be realized by adhering to Porter's work on low cost 
+  versus differentiation
+
+### Structural Entry Barriers
+
+- Control of essential resources
+- Natural resources: DeBeers / diamonds
+- Supplier capacity: Minnetonka / liquid soap
+- Patents: Sony and Philips / CD
+- Distribution channel: Coca Cola / fast food chains
+- Location: Supermarkets / top locations
+- Timing: Airlines / Arrival slots at airports
+- Rationing by governments: Cabs, mobile phone networks
+- Economies of scale and scope
+  - Minimum efficient scale: Semiconductor production
+  - Cost advantages of incumbents through experience or economies of scope: Airframe production
+- Marketing advantages of incumbents
+  - Brand loyalty: Frequent flyer programs
+  - Switching costs: Network markets such as mobile telephony
+
+### Strategic Entry Barriers
+
+In business, strategic entry deterrence refers to any action taken by an existing business in a particular market 
+that discourages potential entrants from entering into competition in that market. Such actions, or barriers to entry, 
+can include hostile takeovers, product differentiation through heavy spending on new product development, 
+capacity expansion to achieve lower unit costs, and predatory pricing. These actions are sometimes deemed 
+anti-competitive and could be subject to various competition laws.
+
+**Commitment**:
+
+New entrant makes a commitment that makes him impossible to exit the market if incumbent retaliates.
+
+Types of commitment
+- High sunk cost investments
+  - Production capacity
+  - R&D
+  - Advertising
+- Exit from other strategic market segments and focus on entry.
+
+**Judo Strategy**:
+
+Entrant:
+- Sets a price lower than the incumbent's price
+- Limits its capacity to serve a small proportion of the market
+- Signals the incumbent that it does not increase its capacity drastically in the future
+
+Incumbent:
+- Loses some profits by giving market share to the incumbent
+- Can exclude the entrant and fight back the whole market by setting itsown price marginally lower than the entrant's 
+one 
+- Incurs (in the short run) losses through this price reduction 
+
+Example: Amazon vs. Barnes & Noble
+- Amazon enters into the online book retail in 1994
+- Barnes & Noble (leading US book retailer) does not respond with an own online store even though 
+potential to exclude Amazon
+- Fear that online store would trigger an online price war and cannibalizing sales through classical bookstores
+- Amazon gradually dragging customers away from classical bookstores
+
+**Niche Market** - a subset of the market on which a specific product is focused. The market niche defines the product 
+features aimed at satisfying specific market needs, as well as the price range, production quality and the demographics
+ that it is intended to target. It is also a small market segment.
+
+- The entrant focuses on a niche market
+- Across the board retaliation may not be feasible for incumbent 
+
+**Limit Pricing**:
+
+A limit price is the price set by a monopolist to discourage economic entry into a market, and is illegal in many 
+countries. The limit price is the price that the entrant would face upon entering as long as the incumbent 
+firm did not decrease output. The limit price is often lower than the average cost of production or just 
+low enough to make entering not profitable. The quantity produced by the incumbent firm to act as a deterrent to 
+entry is usually larger than would be optimal for a monopolist, but might still produce higher economic profits 
+than would be earned under perfect competition.
+
+The problem with limit pricing as a strategy is that once the entrant has entered the market, 
+the quantity used as a threat to deter entry is no longer the incumbent firm's best response. 
+This means that for limit pricing to be an effective deterrent to entry, the threat must in some way be made credible. 
+A way to achieve this is for the incumbent firm to constrain itself to produce a certain quantity whether 
+entry occurs or not. An example of this would be if the firm signed a union contract to employ a 
+certain (high) level of labor for a long period of time. In this strategy price of the product becomes the 
+limit according to budget.
+
+**Predatory pricing**:
+
+Predatory pricing, also known as aggressive pricing (also known as "undercutting"), intended to drive out competitors 
+from a market. It is illegal in some countries.
+
+Companies or firms that tend to get involved with the strategy of predatory pricing often have the goal to place 
+restrictions or a barrier for other new businesses from entering the applicable market. It is an unethical act 
+which contradicts anti–trust law, attempting to establish within the market a monopoly by the imposing Company. 
+Predatory pricing mainly occurs during price competitions in the market as it is an easy way to obfuscate the 
+unethical and illegal act. Using this strategy, in the short term consumers will benefit and be satisfied with 
+lower cost products. In the long run, firms often will not benefit as this strategy will continue to be used by 
+other businesses to undercut competitors margins, causing an increase in competition within the field and 
+facilitating major losses. This strategy is dangerous as it could be destructive to a firm in terms of losses 
+and even lead to complete business failure.
+
+Other pricing strategies: https://en.wikipedia.org/wiki/Pricing_strategies#Models_of_pricing.
+
+**Pre-Emption**:
+
+The incumbent can pre-empt an entry by
+- (Over-) investing to reduce variable costs of production below the level that would be optimal without threat of entry
+- Pursuing horizontal product differentiation with greater product variety than would be optimal without threat of entry
+- Choosing locations of outlets more densely than would be optimal without threat of entry
 
 ## Resources
 
