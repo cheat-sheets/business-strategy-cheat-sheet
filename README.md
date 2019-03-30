@@ -12,6 +12,7 @@ strategies to attain competitive advantage.
 - [Complementary Products](#complementary-products)
   - [Strategic Partnerships](#strategic-partnerships)
 - [Market Entry Strategy](#market-entry-strategy)
+- [Research and Development](#research-and-development)
 - [Resources](#resources)
 
 ## The Basics
@@ -334,12 +335,48 @@ and even lead to complete business failure.
 
 Other pricing strategies: https://en.wikipedia.org/wiki/Pricing_strategies#Models_of_pricing.
 
-**Pre-Emption**:
+**Preemption**:
 
-The incumbent can pre-empt an entry by
+The incumbent can preempt an entry by
 - (Over-) investing to reduce variable costs of production below the level that would be optimal without threat of entry
 - Pursuing horizontal product differentiation with greater product variety than would be optimal without threat of entry
 - Choosing locations of outlets more densely than would be optimal without threat of entry
+
+Other strategies to deter new entrants: https://en.wikipedia.org/wiki/Strategic_entry_deterrence
+
+# Research and Development
+
+- **Basic Research** - development of scientific knowledge that is applicable to wide range of potential uses.
+- **Applied Research** - application of scientific knowledge to the solution of a specific problem, development of a 
+new product or process.
+- **Product Development** - identification of the relevant consumers, tailoring of the product / process to the needs 
+of these consumers.
+
+Results of Applied Research and Product development can be protected by patents or copyright.
+
+### Incentive to innovate
+
+- 100 consumers, 60 are willing to pay $500, 40 are willing to pay $400
+- Production cost of 1 unit is $300
+- Monopolist: **Value of innovation $8,000** . Monopolist sets the price $500 and makes 60 * ($500 - $300) = $12,000, 
+with innovation $400 is more profitable: 60 * ($400 - $200) = $12,000. 
+- Competitive market: **Value of innovation $10,000**. Everyone makes marginal profits, with innovation the innovator 
+gets 100 * ~$100 = ~10,000.
+- Monopolist with threat of entry: 
+  - **Value of innovation for monopolist $15,000**. If new entrant innovates, the market will be split 50/50 and 
+  previous monopolist will be making 50 * ($400 - $300) = $5,000. 
+  - **Value of innovation for entrant $20,000**. If new entrant innovates, the market will be split 50/50 and entrant
+  will be making 50 * ($400 - $200) = $10,000. 
+
+From the above:
+- **Replacement Effect** - for a given market structure, a monopolist has less incentive to innovate because of 
+the higher level of pre-innovation profits.
+- **Efficiency Effect** - under the threat of entry, a monopolist has higher incentives to innovate than a 
+potential entrant into the market.
+
+**Sleeping patents** - patents that prevent other firms to create similar products (example: Xerox).
+
+
 
 ## Resources
 
