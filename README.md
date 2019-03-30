@@ -13,6 +13,7 @@ strategies to attain competitive advantage.
   - [Strategic Partnerships](#strategic-partnerships)
 - [Market Entry Strategy](#market-entry-strategy)
 - [Research and Development](#research-and-development)
+- [Product Differentiation](#product-differentiation)
 - [Resources](#resources)
 
 ## The Basics
@@ -376,7 +377,42 @@ potential entrant into the market.
 
 **Sleeping patents** - patents that prevent other firms to create similar products (example: Xerox).
 
+## Product Differentiation
 
+[**Bertrand paradox**](https://en.wikipedia.org/wiki/Bertrand_paradox_(economics)) describes a situation in which 
+two firms reach a state of Nash equilibrium where both firms charge a price equal to marginal cost. The paradox
+is that in real life it doesn't happen i.e. firms make money. The explanation is that the assumptions used in the 
+Bertrand model are not true in real life: 
+
+- Identical products: In reality, consumers have different taste and products are differentiated.
+- Game played once: In reality, game has indefinite repetitions - cooperation is possible.
+- Market transparency: In reality, imperfect market transparency.
+- Infinite price elasticity: In reality, costs for consumers associated with switching seller (loyalty programs)
+- No capacity constraints: In reality, companies have limited capacity (No incentive to induce a price war
+over the complete demand)
+
+**Vertical differentiation** - given equal prices, every consumer would choose product A over product B 
+(e.g. iPhones with different storage size)
+**Horizontal differentiation** - given equal prices, some consumers would choose product A whereas others 
+would choose product B (e.g. iPhones of different color)
+
+Differentiation fixes Bertrand paradox - firms take different segments of the market and don't compete in prices.
+
+Strategies of taking share of the market:
+
+- **Cost Leadership** - low-cost relative to competitors as strategic main theme
+  - Efficient-scale facilities
+  - Rigorous cost reductions from experience
+  - Avoidance of marginal customer accounts
+  - Cost minimization in areas like R&D, service, sales force and advertising 
+- **Differentiation** - differentiating the product or service, offering something that is perceived industry-wide 
+as being unique. Dimensions:
+  - Design or brand image
+  - Technology
+  - Customer service
+  - Dealer networks
+- **Focus** - focus on particular buyer group, segment of the product line or geographic market. 
+Central rationale: Serving narrow strategic target group more effectively or efficiently than competitors.
 
 ## Resources
 
