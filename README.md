@@ -16,6 +16,7 @@ strategies to attain competitive advantage.
 - [Product Differentiation](#product-differentiation)
 - [Customer Switching Costs](#customer-switching-costs)
 - [Price Discrimination](#price-discrimination)
+- [Competition Law](#competition-law)
 - [Resources](#resources)
 
 ## The Basics
@@ -472,6 +473,61 @@ and price accordingly. Consumer characteristics can include geography, timing, j
 **Product differentiation vs price discrimination**:
 
 ![Product differentiation vs price discrimination](./assets/product_differentiation_price_discrimination.png)
+
+## Competition Law
+
+Why competition is better than Monopoly:
+
+Monopoly:
+
+![Monopoly](./assets/monopoly_surplus.png)
+
+Competition:
+
+![Competition](./assets/competition_surplus.png)
+
+- Competition forces firms to innovate, differentiate, value customers, produce efficiently, exert effort to improve 
+their products.
+- Cartelization allows firms to earn high profits at the expense of customers, reduce risks, ignore customers, 
+produce inefficiently, seek monopoly rents.
+
+A **cartel** is a group of apparently independent producers whose goal is to increase their collective profits by 
+means of price fixing, limiting supply, or other restrictive practices. Cartels typically control selling prices, 
+but some are organized to control the prices of purchased inputs.
+
+Competition policy (EU) / Anti-Trust Policy (USA)
+- Protects consumers and firms from the negative effects of cartelization
+- Prevents rent seeking, encourages competition and thus raises efficiency and innovation
+
+**Instruments of Competition Policy**:
+
+- **Ban on Cartels** - banning agreements between competitors or contracts between suppliers and customers that restrict 
+competition.
+  - Example: Otis, Kone, Schindler and ThyssenKrupp rig bids for procurement contracts, allocate projects to each other, 
+  fix prices and exchange commercially important / confidential information in four European countries (1995-2004). 
+  Total fine by the European Commission: €992mn (2007)
+- **Abuse Control** - banning abusive exploitation of a dominant market position or anti-competitive practices 
+that tend to lead to such a dominant position.
+  - *Exclusive Dealing*: Firm signs procurement contracts which forbid the other party to sell to / buy from competitors.
+  Example: Petrol stations and petroleum suppliers.
+  - *Tying*: Firm makes the purchase of one product over which it has market power ("tying good") conditional on the
+  purchase of a second, competitively supplied, product / service ("tied good"). Example: Apple iPhone exclusively 
+  available with AT&T mobile contract. Example: Microsoft dominates markets for operating systems. The operating system 
+  comes with the Microsoft Media Player. Microsoft provides competitors with poor information about software interfaces 
+  necessary to engineer smoothly working applications for Windows. European Commission fines Microsoft €497mn and 
+  forces the company to offer a version of Windows without Media Player.
+  - *Bundling*: Firm offers two or more products (it has market power over one) separately, but gives a discount to 
+  customers who purchase these as a combined bundle. Example: Popular song only in an album together with other 
+  titles available.
+  - *Predatory Pricing*: Firm sets prices at a level that implies losses in the short run in order to eliminate 
+  competitors and realize monopoly profits in the long run. Example: The Times / UK Newspaper Industry.
+  - *Refusal to Supply / Margin Squeeze*: Company refuses to supply competitors with essential inputs / sells these 
+  inputs for a price that destroys the competitors' margin.
+- **Merger Control** - supervising the mergers of large corporations. Prohibiting such transactions that substantially 
+weaken competition and lead to a dominant market position.
+
+**Herfindahl-Hirschman index (HHI-score)** - a measure of the size of firms in relation to the industry and an indicator 
+of the amount of competition among them.
 
 
 ## Resources
