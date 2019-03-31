@@ -15,6 +15,7 @@ strategies to attain competitive advantage.
 - [Research and Development](#research-and-development)
 - [Product Differentiation](#product-differentiation)
 - [Customer Switching Costs](#customer-switching-costs)
+- [Price Discrimination](#price-discrimination)
 - [Resources](#resources)
 
 ## The Basics
@@ -431,17 +432,17 @@ Switching costs for customers include:
 - Psychological "costs" through change of contact person, e.g. missing the friendly welcome at your favorite restaurant
 - Replacement of complementary goods for the product
 
-- When will a customer switch to a new supplier?
+- **When will a customer switch to a new supplier?**
 
 C <= U + G, where C - customer switching costs, U - utility increase from switching, G - switching "goody" 
 from new supplier.
 
-- How much should a new supplier invest to make a customer switch?
+- **How much should a new supplier invest to make a customer switch?**
 
 S <= P - G, where S - supplier's switching costs, P - profit increase from new customer, G - switching "goody"
 given to the new customer.
 
-- How can a supplier increase customer switching costs?
+- **How can a supplier increase customer switching costs?**
 
 	- Loyalty programs
 	- Long-term contracts
@@ -450,10 +451,28 @@ given to the new customer.
 	- Specific interfaces
 	- Close personal customer service
 
-- How can customers decrease their switching costs?
+- **How can customers decrease their switching costs?**
 	- Use anticipated switching costs to negotiate a price reduction before supplier lock-in
 	- Use a second supplier / second sourcing (e.g. IBM purchases processors from Intel and AMD)
 	
+## Price Discrimination
+
+**Price discrimination**: is the practice of transacting the same product at different prices to capture more market 
+segments, e.g. set lower 
+prices for students. Can be combined with product differentiation when different product versions have different price. 
+
+- 1st degree discrimination - different price for each consumer.
+- 2nd degree discrimination - firms construct prices so that consumers "self-select". Types:
+  - Nonlinear pricing
+  - Versioning
+  - Bundling 
+- 3rd degree discrimination - firms observe consumer characteristics that allow them to infer WTP (willingness to pay) 
+and price accordingly. Consumer characteristics can include geography, timing, job.
+
+**Product differentiation vs price discrimination**:
+
+![Product differentiation vs price discrimination](./assets/product_differentiation_price_discrimination.png)
+
 
 ## Resources
 
