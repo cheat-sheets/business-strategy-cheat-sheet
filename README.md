@@ -14,6 +14,7 @@ strategies to attain competitive advantage.
 - [Market Entry Strategy](#market-entry-strategy)
 - [Research and Development](#research-and-development)
 - [Product Differentiation](#product-differentiation)
+- [Customer Switching Costs](#customer-switching-costs)
 - [Resources](#resources)
 
 ## The Basics
@@ -392,15 +393,16 @@ Bertrand model are not true in real life:
 over the complete demand)
 
 **Vertical differentiation** - given equal prices, every consumer would choose product A over product B 
-(e.g. iPhones with different storage size)
+(e.g. iPhones with different storage size).
+
 **Horizontal differentiation** - given equal prices, some consumers would choose product A whereas others 
-would choose product B (e.g. iPhones of different color)
+would choose product B (e.g. iPhones of different color).
 
 Differentiation fixes Bertrand paradox - firms take different segments of the market and don't compete in prices.
 
 Strategies of taking share of the market:
 
-- **Cost Leadership** - low-cost relative to competitors as strategic main theme
+- **Cost Leadership** - low-cost relative to competitors as strategic main theme:
   - Efficient-scale facilities
   - Rigorous cost reductions from experience
   - Avoidance of marginal customer accounts
@@ -413,6 +415,45 @@ as being unique. Dimensions:
   - Dealer networks
 - **Focus** - focus on particular buyer group, segment of the product line or geographic market. 
 Central rationale: Serving narrow strategic target group more effectively or efficiently than competitors.
+
+## Customer Switching Costs 
+
+Acquiring new customers is more expensive than keeping old customers. Firms can invest in loyalty programs to lock-in 
+customers and make it less appealing for them to switch to a competitor.
+
+New suppliers can give "goodies" (discounts, free flights) to their customers to give the incentive to switch. 
+Switching costs for customers include:
+
+- Risk that the new supplier is not a reliable replacement, E.g. uncertainty about qualification of new car repair center
+- Costs of exchanging suppliers, e.g. cost of moving apartment, administrative costs if "supplier" is an employee
+- Learning costs with new supplier 
+- Loyalty programs and accumulated quantity discounts
+- Psychological "costs" through change of contact person, e.g. missing the friendly welcome at your favorite restaurant
+- Replacement of complementary goods for the product
+
+- When will a customer switch to a new supplier?
+
+C <= U + G, where C - customer switching costs, U - utility increase from switching, G - switching "goody" 
+from new supplier.
+
+- How much should a new supplier invest to make a customer switch?
+
+S <= P - G, where S - supplier's switching costs, P - profit increase from new customer, G - switching "goody"
+given to the new customer.
+
+- How can a supplier increase customer switching costs?
+
+	- Loyalty programs
+	- Long-term contracts
+	- Sale of complementary products 
+	- Specific software / data formats
+	- Specific interfaces
+	- Close personal customer service
+
+- How can customers decrease their switching costs?
+	- Use anticipated switching costs to negotiate a price reduction before supplier lock-in
+	- Use a second supplier / second sourcing (e.g. IBM purchases processors from Intel and AMD)
+	
 
 ## Resources
 
