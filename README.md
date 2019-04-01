@@ -17,6 +17,9 @@ strategies to attain competitive advantage.
 - [Customer Switching Costs](#customer-switching-costs)
 - [Price Discrimination](#price-discrimination)
 - [Competition Law](#competition-law)
+- [Network Effects](#network-effects)
+- [Economies of Scale](#economies-of-scale)
+- [Economies of Scope](#economies-of-scope)
 - [Resources](#resources)
 
 ## The Basics
@@ -529,6 +532,117 @@ weaken competition and lead to a dominant market position.
 **Herfindahl-Hirschman index (HHI-score)** - a measure of the size of firms in relation to the industry and an indicator 
 of the amount of competition among them.
 
+## Network Effects
+
+A **network effect** is the effect that an additional user of a good or service has on the value of that product to 
+others. When a network effect is present, the value of a product or service increases according to the number of 
+others using it.
+
+There are 2 kinds of network effects:
+- **Direct network effects**: An increase in usage leads to a direct increase in value for other users. 
+For example, telephone systems and social networks all imply direct contact among users. A direct network effect is 
+called a same-side network effect. An example is online gamers who benefit from participation of other gamers.
+  - Facebook
+  - Telephony
+  - Telegram
+- **Indirect network effects**: Increases in usage of one product or network spawn increases in the value of a 
+complementary product or network, which can in turn increase the value of the original. 
+Examples of complementary goods include software (such as an Office suite for operating systems) 
+and DVDs (for DVD players). This is why Windows and Linux might compete not just for users, but for software developers.
+This is also called a cross-side network effect. Most two-sided markets (or platform-mediated markets) are 
+characterized by indirect network effects.
+	- Google AdSense (advertisers and bloggers) -  the more blogs Google AdSense can reach, the more advertisers it 
+	will attract, making it the most attractive option for more blogs, and so on, making the network more valuable for all participants.
+	- Airbnb (hosts and guests)
+	- Uber (drivers and passengers)
+	- iOS (app publishers and users) 
+	- Credit Cards (shops and consumers) 
+
+**Characteristics of network industries**:
+- Positive consumption externalities.
+- Critical mass and network size.
+- Complementarity, compatibility and standards.
+- Switching costs and lock-in (not exclusive to network markets but frequently found in them).
+- Often asymmetric and concentrated market structures.
+- Often significant economies of scale in production.
+
+**Two forces determine market structure in network markets**:
+
+- Network effects:
+  - Strong - Monopoly
+  - Medium - Niche Survival
+  - Weak - Many Firms
+- Consumer Heterogeneity
+  - Low - Monopoly
+  - Medium - Niche Survival
+  - High - Many Firms
+
+### Economies of Scale
+
+**Economies of scale** are are the cost advantages that enterprises obtain due to their scale of operation 
+(typically measured by amount of output produced), with cost per unit of output decreasing with increasing scale. 
+(In economics, "economies" is synonym to cost savings and "scale" is synonymous with quantity or the scale of 
+production.)
+
+Sources of economies of scale:
+- Fixed costs - Certain inputs in the production process may not fall below a minimum. Increasing the volume of 
+production spreads the fixed costs over more units 
+- Inventories - Firms carry inventory to avoid stock out. Bigger firms can afford to keep smaller inventories 
+(relative to sales volume) compared with smaller firms because demand is less variable.
+- The possibility of purchasing inputs at a lower per-unit cost when they are purchased in large quantities.
+
+### Economies of Scope
+
+**Economies of Scope** are "efficiencies formed by variety, not volume". (In economics, "scope" is synonymous with 
+broadening production through diversified products.)
+
+Sources of economies of scope:
+- Umbrella branding - New products are easier to introduce when there is an established brand with the desired
+image. If a firm's reputation is at stake across a wide range of products, this helps establish trust.
+- Combined purchasing - Different products may partially require the same inputs. With a higher purchasing volume 
+the price per unit decreases.
+
+### Diseconomies of Scale and Scope
+
+- Labour costs - Larger firms generally pay higher wages. Unionization is more likely in large firms. Employees may 
+require lower pay in small firms because of more enjoyable work. Large firms may have to attract workers from further 
+away places.
+- Incentive and bureaucracy effects - When a firm gets large it is difficult to monitor and communicate with workers.
+It is difficult to evaluate and reward individual performance.
+- Conflicting out - Professional services firms may find it difficult to sign up a client if a competitor is already a 
+client of the firm. When sensitive information has to be shared, such conflicts may impose a limit to the growth of 
+the firm.
+
+### Buy vs Make Decision
+  
+**Reasons to buy**:
+- Exploit economies of scale
+  - Supplier can exploit economies of scale and learning curve effects by serving several downstream firms.
+  - Input good can be produced at lower unit costs. 
+  - Example: Bosch produces brakes for BMW, Audi, etc. and has a higher volume than a BMW internal brake production 
+  unit would have.
+- Transfer of fixed costs into variable costs
+  - With in-house production unit costs vary with output needed, with outside purchasing unit costs are always equal 
+  to the agreed price (independent of volume).
+- Better risk allocation
+  - Supplier can spread the risk of change in production between several downstream firms (if their production is 
+  imperfectly correlated)
+- Less bureaucracy and influence costs
+  - Disproportionately high costs of coordination, internal communication and enforcement of control in larger
+  organizations
+- High-powered incentives
+  - Independent suppliers have greater incentives to lower costs and be innovative because they appropriate the profits
+  from these activities.
+  
+**Reasons to make**:
+- Avoiding transaction costs (finding appropriate partners, specifying, monitoring and renegotiating contract)
+- Coordination advantages - If strategic decisions at different stages of the value chain are highly interdependent, 
+coordinating decisions across firm boundaries may become very costly.
+- Smoother ex-post adjustment - When there is high uncertainty and contracts need to be adapted, this is less costly 
+within a single firm.
+- Avoid Hold-up - If relationship-specific investments are required, transaction costs are high due to "quasi-rents" 
+from the investment.
+ 
 
 ## Resources
 
