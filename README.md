@@ -20,6 +20,7 @@ strategies to attain competitive advantage.
 - [Network Effects](#network-effects)
 - [Economies of Scale](#economies-of-scale)
 - [Economies of Scope](#economies-of-scope)
+- [Mergers and Acquisitions](#mergers-and-acquisitions)
 - [Resources](#resources)
 
 ## The Basics
@@ -340,6 +341,19 @@ other businesses to undercut competitors margins, causing an increase in competi
 facilitating major losses. This strategy is dangerous as it could be destructive to a firm in terms of losses 
 and even lead to complete business failure.
 
+**Price skimming**:
+
+Price skimming is a pricing strategy in which a marketer sets a relatively high initial price for a product or service 
+at first, then lowers the price over time. It is a temporal version of price discrimination/yield management. 
+It allows the firm to recover its sunk costs quickly before competition steps in and lowers the market price.
+
+**Penetration pricing**:
+
+Penetration pricing is a pricing strategy where the price of a product is initially set low to rapidly reach a 
+wide fraction of the market and initiate word of mouth. The strategy works on the expectation that customers will 
+switch to the new brand because of the lower price. Penetration pricing is most commonly associated with marketing 
+objectives of enlarging market share and exploiting economies of scale or experience.
+
 Other pricing strategies: https://en.wikipedia.org/wiki/Pricing_strategies#Models_of_pricing.
 
 **Preemption**:
@@ -643,7 +657,47 @@ within a single firm.
 - Avoid Hold-up - If relationship-specific investments are required, transaction costs are high due to "quasi-rents" 
 from the investment.
  
+## Mergers and Acquisitions
 
+**Mergers and acquisitions (M&A)** are transactions in which the ownership of companies, other business organizations, 
+or their operating units are transferred or consolidated with other entities. As an aspect of strategic management, 
+M&A can allow enterprises to grow or downsize, and change the nature of their business or competitive position.
+
+From a legal point of view, a merger is a legal consolidation of two entities into one entity, whereas an 
+acquisition occurs when one entity takes ownership of another entity's stock, equity interests or assets. 
+From a commercial and economic point of view, both types of transactions generally result in the consolidation 
+of assets and liabilities under one entity, and the distinction between a "merger" and an "acquisition" is less clear. 
+A transaction legally structured as an acquisition may have the effect of placing one party's business under the 
+indirect ownership of the other party's shareholders, while a transaction legally structured as a merger may give 
+each party's shareholders partial ownership and control of the combined enterprise. A deal may be euphemistically 
+called a merger of equals if both CEOs agree that joining together is in the best interest of both of their companies, 
+while when the deal is unfriendly (that is, when the management of the target company opposes the deal) it may be 
+regarded as an "acquisition".
+
+Advantages of horizontal mergers for partners and buyers:
+- Lowering competition
+- Reducing the risk of becoming a target
+- Gaining bargaining power
+- Production advantages
+- Realizing economies of scale and / or scope
+- Securing access to new technologies
+- Entering into new products
+- Accessing new markets / customer groups
+- Acquiring brand name / image 
+ 
+Advantages of vertical mergers for partners and buyers:
+- Reduction of transaction costs
+- Gaining control over upstream or downstream resources
+- Raising barriers to entry
+
+Advantages for the target:
+- Solving financial problems
+- Producing funds for investments
+- Initiating company restructuring
+- Securing exit (cash-out)
+- Organizing succession (ownership / management)
+- Solving disagreements among shareholders
+ 
 ## Resources
 
 - Competitive Strategy: course on Coursera https://www.coursera.org/learn/competitive-strategy
