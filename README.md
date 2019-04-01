@@ -21,6 +21,7 @@ strategies to attain competitive advantage.
 - [Economies of Scale](#economies-of-scale)
 - [Economies of Scope](#economies-of-scope)
 - [Mergers and Acquisitions](#mergers-and-acquisitions)
+- [Organic Growth](#organic-growth)
 - [Resources](#resources)
 
 ## The Basics
@@ -697,6 +698,47 @@ Advantages for the target:
 - Securing exit (cash-out)
 - Organizing succession (ownership / management)
 - Solving disagreements among shareholders
+
+## Organic Growth
+
+Organic growth can be achieved by:
+- Acquiring new customers and increasing the sales of existing products and services
+- Introducing new products and services
+- Moving into new (geographic) markets
+- Diversification
+
+![Ansoff Matrix](./assets/ansoff_matrix.jpg)
+
+In market penetration strategy, the organization tries to grow using its existing offerings (products and services) in 
+existing markets. In other words, it tries to increase its market share in current market scenario.
+
+In market development strategy, a firm tries to expand into new markets (geographies, countries etc.) using its 
+existing offerings and also, with minimal product/services development.
+
+In product development strategy, a company tries to create new products and services targeted at its existing markets 
+to achieve growth. This involves extending the product range available to the firm's existing markets. 
+
+In diversification an organization tries to grow its market share by introducing new offerings in new markets. 
+It is the most risky strategy because both product and market development is required.
+
+### External Limitations to Growth
+
+- Lack of resources (product or factor markets)
+  - Capital
+  - Labor
+  - Natural resources
+  - Technologies and know-how (patents or non-disclosure agreements)
+  - Lack of opportunities / demand
+- Fierce competition may be deterring entry
+- Successful growth and expansion oftentimes requires a high degree of managerial skill, delicacy of feeling and 
+imagination
+
+### Internal Limitations to Growth
+
+- Limits to managerial ability
+- Managerial diseconomies
+- Structural misfit
+- Uncertainty and risk
  
 ## Resources
 
