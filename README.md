@@ -177,7 +177,10 @@ laptops more attractive.
 
 **Strategies related to complements**
 - **Cross subsidies** - charging higher prices to one type of consumers to artificially lower prices for another group.
-	- Razors and blades, Mobile phones and operator contracts, Printers and cartridges.
+	- Razors and blades
+	- Mobile phones and operator contracts
+	- Printers and cartridges
+	- Espresso machines and espresso capsules
 - **Bundling** - sell main product and complement as a bundle.
 - **Lock-in** - complement can only be used with main product of certain producer. Users have switching costs when 
 switching from A to a substitute. The more complements (B, C, ...) to A they buy, the higher the switching cost.
@@ -624,6 +627,7 @@ require lower pay in small firms because of more enjoyable work. Large firms may
 away places.
 - Incentive and bureaucracy effects - When a firm gets large it is difficult to monitor and communicate with workers.
 It is difficult to evaluate and reward individual performance.
+- Coordination and control - it is more difficult to coordinate and control a bigger firm.
 - Conflicting out - Professional services firms may find it difficult to sign up a client if a competitor is already a 
 client of the firm. When sensitive information has to be shared, such conflicts may impose a limit to the growth of 
 the firm.
