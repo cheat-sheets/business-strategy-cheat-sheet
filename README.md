@@ -748,3 +748,4 @@ imagination
 
 - Competitive Strategy: course on Coursera https://www.coursera.org/learn/competitive-strategy
 - Advanced Competitive Strategy: course on Coursera https://www.coursera.org/learn/advanced-competitive-strategy
+- Business Model Canvas: https://docs.google.com/spreadsheets/d/1rhhh-aztyMUZefjqULP957NolZx3e7lky36yxIkfK3k/edit?usp=sharing
