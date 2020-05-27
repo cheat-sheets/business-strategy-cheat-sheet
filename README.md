@@ -122,7 +122,7 @@ A higher discount factor means more patience and higher chance of surviving into
 for both players and that 
 
 |                      | 1st round | 2nd round | 3rd round | 4th round |
-| ---                  | ---       |           | ---       | ---       |
+| ---                  | ---       | ---       | ---       | ---       |
 | **Betray**           | 0         | -2        | -2        | -2        |
 | **Cooperate**        | -1        | -1        | -1        | -1        |
 
