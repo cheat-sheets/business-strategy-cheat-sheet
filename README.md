@@ -743,6 +743,18 @@ imagination
 - Managerial diseconomies
 - Structural misfit
 - Uncertainty and risk
+
+### Random Notes
+
+Reasons why someone doesn't do the task you assigned:
+
+1. Lacks motivation (wouldn't do without it)
+2. Lacks knowledge (would do without it but not what's needed)
+3. Lacks skills (would do without it but not the way needed)
+4. Lacks resources (would try to do but nothing would come our of it)
+5. Lacks a plan (would do but chaotically)
+
+From here: https://www.youtube.com/watch?v=jYnvBkFSz9w
  
 ## Resources
 
